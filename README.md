@@ -38,4 +38,6 @@ React 깃허브.io와 연결하기
   - ![image](https://user-images.githubusercontent.com/83456300/171771893-49f3f76a-bed3-4bbe-8e2a-0996125a51a0.png)
 
 ### 9. 'npm run deploy'
+  - ![image](https://user-images.githubusercontent.com/83456300/171772065-f5cd1095-2967-4fc8-80eb-7496429538ba.png)
+  - 위와 같이 git-pb
 
