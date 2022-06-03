@@ -39,5 +39,8 @@ React 깃허브.io와 연결하기
 
 ### 9. 'npm run deploy'
   - ![image](https://user-images.githubusercontent.com/83456300/171772065-f5cd1095-2967-4fc8-80eb-7496429538ba.png)
-  - 위와 같이 git-pb
+  - deploy를 하고나면 위와 같이 branch에 gh-page가 생기게 된다.
+
+### 10. 주의!
+  - App.js 파일을 수정할때마다 'npm run deploy'를 해야 깃허브.io에 연동이 된다.
 
